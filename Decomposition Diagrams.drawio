@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-15T20:07:23.911Z" agent="5.0 (Windows)" etag="PLuFk4qGxMuIOry98HpC" version="20.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-15T20:26:03.230Z" agent="5.0 (Windows)" etag="GWG2DeacGg2oMqQ4NYPa" version="20.6.2" type="github">
   <diagram id="42cKhq52vNJZRKFAm1b_" name="Seite-1">
-    <mxGraphModel dx="1492" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="597" dy="286" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -919,17 +919,13 @@
         <mxCell id="NSV-x89W4Y5btYxZHlU7-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="DmpDktqdWVQR6J1gC0hd-7" target="DmpDktqdWVQR6J1gC0hd-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NSV-x89W4Y5btYxZHlU7-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="DmpDktqdWVQR6J1gC0hd-7" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2250" y="1557.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NSV-x89W4Y5btYxZHlU7-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="DmpDktqdWVQR6J1gC0hd-7" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2390" y="1557.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="2hkHsSnRgmPlp-JAB0Yl-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="DmpDktqdWVQR6J1gC0hd-7" target="2hkHsSnRgmPlp-JAB0Yl-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kOs0mFuBl2WWaeapR9IJ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DmpDktqdWVQR6J1gC0hd-7" target="kOs0mFuBl2WWaeapR9IJ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kOs0mFuBl2WWaeapR9IJ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="DmpDktqdWVQR6J1gC0hd-7" target="kOs0mFuBl2WWaeapR9IJ-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="DmpDktqdWVQR6J1gC0hd-7" value="Overlaying Controller Communication" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
@@ -1262,16 +1258,16 @@
           <mxGeometry x="2260" y="1390" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="2hkHsSnRgmPlp-JAB0Yl-3" value="OPC UA" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2390" y="1535" width="120" height="45" as="geometry" />
+          <mxGeometry x="2010" y="1475" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="2hkHsSnRgmPlp-JAB0Yl-5" value="S7comm" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2130" y="1532.5" width="120" height="50" as="geometry" />
+          <mxGeometry x="2010" y="1410" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kOs0mFuBl2WWaeapR9IJ-1" value="Ethernet IP" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2400" y="1599" width="120" height="45" as="geometry" />
+          <mxGeometry x="2390" y="1535" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="kOs0mFuBl2WWaeapR9IJ-2" value="EtherCat" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2117" y="1595" width="120" height="45" as="geometry" />
+          <mxGeometry x="2130" y="1535" width="120" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
