@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-15T20:38:17.708Z" agent="5.0 (Windows)" etag="6UDSDlJEthYKu5hdjDAQ" version="20.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-15T20:39:15.331Z" agent="5.0 (Windows)" etag="Em1DCKlCBdmYxc5Ntoai" version="20.6.2" type="github">
   <diagram id="KdN17RHVZAtXMgMY45hB" name="Seite-1">
     <mxGraphModel dx="1705" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -610,7 +610,7 @@
         <mxCell id="ZoQ5-4ONgtt3OPhcIvzk-57" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Profinet&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeColor=default;fontStyle=1;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="1640" y="138.5" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZoQ5-4ONgtt3OPhcIvzk-58" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Magazine&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeColor=default;fontStyle=1;shadow=1;" vertex="1" parent="1">
+        <mxCell id="ZoQ5-4ONgtt3OPhcIvzk-58" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Modbus&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeColor=default;fontStyle=1;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="1640" y="258.5" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZoQ5-4ONgtt3OPhcIvzk-59" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
@@ -619,7 +619,7 @@
             <mxPoint x="1630" y="58.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZoQ5-4ONgtt3OPhcIvzk-60" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;RIB&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeColor=default;fontStyle=1;shadow=1;" vertex="1" parent="1">
+        <mxCell id="ZoQ5-4ONgtt3OPhcIvzk-60" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Rib&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeColor=default;fontStyle=1;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="1640" y="198.5" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZoQ5-4ONgtt3OPhcIvzk-61" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Artiminds&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;strokeColor=default;fontStyle=1;shadow=1;" vertex="1" parent="1">
