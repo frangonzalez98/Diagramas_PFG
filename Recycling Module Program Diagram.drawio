@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-18T13:21:28.923Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="50N7pR1ppbu3nbdoRUbT" version="20.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-18T13:23:45.298Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="y8Do8KeQBveHmikHV1zo" version="20.7.3" type="github">
   <diagram id="av36-QLzx31YAxyc08HP" name="Seite-1">
     <mxGraphModel dx="1802" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="xZuinXM1AuWVyvWUmVTf-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="iEAS6jNyVJdADZBlRwmA-35" target="xZuinXM1AuWVyvWUmVTf-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xZuinXM1AuWVyvWUmVTf-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="iEAS6jNyVJdADZBlRwmA-35" target="iEAS6jNyVJdADZBlRwmA-5">
+        <mxCell id="xZuinXM1AuWVyvWUmVTf-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="iEAS6jNyVJdADZBlRwmA-35" target="iEAS6jNyVJdADZBlRwmA-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iEAS6jNyVJdADZBlRwmA-35" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;strokeWidth=1;dashed=1;dashPattern=1 1;" parent="1" vertex="1">
@@ -64,7 +64,7 @@
         <mxCell id="xZuinXM1AuWVyvWUmVTf-9" value="&lt;font size=&quot;3&quot;&gt;&lt;b&gt;ur_robot_config&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;font-size: 10px;&quot;&gt;Relevant positions and settings for the robot operation&lt;/b&gt;&lt;font size=&quot;3&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="930" y="260" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xZuinXM1AuWVyvWUmVTf-11" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;skills&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Class to call and control the different skills of the module&lt;/span&gt;&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="xZuinXM1AuWVyvWUmVTf-11" value="&lt;font style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;skills&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Class to execute and control the different skills of the module&lt;/span&gt;&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="620" y="380" width="240" height="60" as="geometry" />
         </mxCell>
       </root>
