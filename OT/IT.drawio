@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2023-01-26T22:20:43.475Z" agent="5.0 (Windows)" version="20.8.10" etag="NbzWijzdzKLitDzaR7xO" type="github"><diagram name="Page-1" id="QyamMn0kX-oSEPoy5dCm">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-26T22:31:59.691Z" agent="5.0 (Windows)" etag="RlS93mefHvfXRR5_5pGg" version="20.8.10" type="github">
+  <diagram name="Page-1" id="QyamMn0kX-oSEPoy5dCm">
+    <mxGraphModel dx="1562" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IRuvf2frWhLH2tIIA_dw-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="110" width="360" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="IRuvf2frWhLH2tIIA_dw-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IRuvf2frWhLH2tIIA_dw-2" target="IRuvf2frWhLH2tIIA_dw-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IRuvf2frWhLH2tIIA_dw-2" value="Overlaying Controller" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="170" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IRuvf2frWhLH2tIIA_dw-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IRuvf2frWhLH2tIIA_dw-3" target="IRuvf2frWhLH2tIIA_dw-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IRuvf2frWhLH2tIIA_dw-3" value="Compute Element" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="330" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IRuvf2frWhLH2tIIA_dw-4" value="Robot Controller" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="330" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IRuvf2frWhLH2tIIA_dw-7" value="IT Based Control Method" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="160" y="280" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IRuvf2frWhLH2tIIA_dw-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="110" width="370" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="IRuvf2frWhLH2tIIA_dw-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="IRuvf2frWhLH2tIIA_dw-10" target="IRuvf2frWhLH2tIIA_dw-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IRuvf2frWhLH2tIIA_dw-10" value="Overlaying Controller" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="570" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IRuvf2frWhLH2tIIA_dw-13" value="Robot Controller" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="740" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IRuvf2frWhLH2tIIA_dw-14" value="OT Based Control Method" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="560" y="280" width="120" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
