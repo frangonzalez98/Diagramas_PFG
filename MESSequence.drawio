@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2023-01-25T15:56:16.176Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="rx94YMea0c0nSDq_oWPX" version="20.8.10" type="github"><diagram name="Page-1" id="vuZz6I5Elsvd5vswjOkk">7VdRb5swEP41edxEgNDucU3T7aFtpEVTu0cHDvBkfNSYAv31s+EIINQok6YlD32I8H2+s8/f+bOdhbfO6m+K5ekDRiAWrhPVC+924bpL3/PNxyJNh1wFBCSKR+Q0ADv+BgQ6hJY8gmLiqBGF5vkUDFFKCPUEY0phNXWLUUxnzVkCM2AXMjFHn3ik0w71PMcZOr4DT1Ka2g+uKSRjvTe5FimLsBpB3mbhrRWi7lpZvQZh2euJ6eLu3uk9ZKZA6lMCXrZ7/HLHtzV7iF21FY9vj0+fVpSbbvoVQ2QIIBOVTjFBycRmQG8UljICO6pjrMHnHjE34NKAv0HrhqrJSo0GSnUmqBdqrp9H7V92qM8rsm5rGrk1mt6QWjXPY2MUZc0hrLX6uG59dlHv0kZQgaUK4QhX/f5jKgF9xM89FNfIAjADk4+JUyCY5q/TPBjtz+TgN1TQNKiIf1FQGveViZJmukcW2ZnMb88KsIs3idgvl6YyZkEptPtVljELdam4TIwtuITZ5piWvkq5hl3OWtYqcwBMy0yZgNJQHyd/ThYFXJN26PQIyKwGKS57eaUjFfZ+/5zd4EMuJ8vFPVEu3jnl4s7k8rUoINsLOAgjVxiV5mpxnbLopNHhEqqZpM4sF9e/ML1cfejlZL14J+rFP6devJlefkrRXTCdKmIueZFCNBFOrDC77IvGdy5MOf6M6IUbvJT2sXjzA8ImtCdUDxxnn655rgv7EOdxDC0r9tGc5ShNuzg7/6vgv/FvzOHR3faN/rt4mz8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-01T16:56:08.707Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="FkCf7HN0uWY8rWLfKcs6" version="20.8.14" type="github">
+  <diagram name="Page-1" id="vuZz6I5Elsvd5vswjOkk">
+    <mxGraphModel dx="1562" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qObo9FiOxaMf2rOlNzNW-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="qObo9FiOxaMf2rOlNzNW-1" target="qObo9FiOxaMf2rOlNzNW-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qObo9FiOxaMf2rOlNzNW-1" value="Load a base plate into the manufacturing line" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qObo9FiOxaMf2rOlNzNW-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="qObo9FiOxaMf2rOlNzNW-2" target="qObo9FiOxaMf2rOlNzNW-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qObo9FiOxaMf2rOlNzNW-2" value="Wait for the product to be assembled" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="240" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qObo9FiOxaMf2rOlNzNW-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="qObo9FiOxaMf2rOlNzNW-3" target="qObo9FiOxaMf2rOlNzNW-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qObo9FiOxaMf2rOlNzNW-3" value="Unload the finished product from the manufacturing line" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qObo9FiOxaMf2rOlNzNW-4" value="&quot;Recycle&quot; the finished product into its different components" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
