@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-20T09:35:14.777Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="PPiK0ih03zttkyxWpyXD" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-20T20:45:28.387Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="67o5uY0S7ET9BCCGjCZD" version="20.8.20" type="github">
   <diagram id="42cKhq52vNJZRKFAm1b_" name="Seite-1">
-    <mxGraphModel dx="5580" dy="2757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1202" dy="599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1142,7 +1142,7 @@
         <mxCell id="NSV-x89W4Y5btYxZHlU7-51" value="Robot Arm Control Method" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="2630" y="1036.25" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="NSV-x89W4Y5btYxZHlU7-52" value="Artiminds RPS" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="NSV-x89W4Y5btYxZHlU7-52" value="ArtiMinds RPS" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="3020" y="1286.25" width="60" height="45" as="geometry" />
         </mxCell>
         <mxCell id="NSV-x89W4Y5btYxZHlU7-53" value="UR_RTDE" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1536,7 +1536,7 @@
             <mxPoint x="2310" y="1834.88" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="x5XvYj3nc7enN2POhmtc-9" value="Program Logic" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="x5XvYj3nc7enN2POhmtc-9" value="Robot Program Logic" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2160" y="1804.88" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="x5XvYj3nc7enN2POhmtc-10" value="UR Controller" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1551,7 +1551,7 @@
         <mxCell id="x5XvYj3nc7enN2POhmtc-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="x5XvYj3nc7enN2POhmtc-14" target="x5XvYj3nc7enN2POhmtc-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="x5XvYj3nc7enN2POhmtc-14" value="Program Logic" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="x5XvYj3nc7enN2POhmtc-14" value="Robot Program Logic" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2530" y="1802.38" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="x5XvYj3nc7enN2POhmtc-15" value="UR Controller" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -1560,22 +1560,17 @@
         <mxCell id="x5XvYj3nc7enN2POhmtc-16" value="External PC" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2690" y="1804.88" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="x5XvYj3nc7enN2POhmtc-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.003;entryY=0.81;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="x5XvYj3nc7enN2POhmtc-18" target="x5XvYj3nc7enN2POhmtc-21" edge="1">
+        <mxCell id="HgQZKxzAl0zi2ERc6zTd-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="x5XvYj3nc7enN2POhmtc-18" target="HgQZKxzAl0zi2ERc6zTd-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="x5XvYj3nc7enN2POhmtc-18" value="Motion Planner" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2900" y="1879.88" width="120" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="x5XvYj3nc7enN2POhmtc-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.007;entryY=0.184;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="x5XvYj3nc7enN2POhmtc-20" target="x5XvYj3nc7enN2POhmtc-21" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3050" y="1834.88" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="HgQZKxzAl0zi2ERc6zTd-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="x5XvYj3nc7enN2POhmtc-20" target="HgQZKxzAl0zi2ERc6zTd-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="x5XvYj3nc7enN2POhmtc-20" value="Program Logic" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="x5XvYj3nc7enN2POhmtc-20" value="Robot Program Logic" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2900" y="1804.88" width="120" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="x5XvYj3nc7enN2POhmtc-21" value="UR Controller" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="3060" y="1804.88" width="80" height="120" as="geometry" />
         </mxCell>
         <mxCell id="x5XvYj3nc7enN2POhmtc-22" value="UR-RTDE" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="2440" y="1819.88" width="90" height="90" as="geometry" />
@@ -1620,6 +1615,99 @@
         </mxCell>
         <mxCell id="x5XvYj3nc7enN2POhmtc-35" value="External PC" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2680" y="1963.13" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HgQZKxzAl0zi2ERc6zTd-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HgQZKxzAl0zi2ERc6zTd-2" target="HgQZKxzAl0zi2ERc6zTd-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HgQZKxzAl0zi2ERc6zTd-2" value="External PC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3060" y="1808.38" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HgQZKxzAl0zi2ERc6zTd-3" value="UR Controller" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3060" y="1884.88" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HgQZKxzAl0zi2ERc6zTd-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HgQZKxzAl0zi2ERc6zTd-9" target="HgQZKxzAl0zi2ERc6zTd-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HgQZKxzAl0zi2ERc6zTd-9" value="Motion Planner" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2550" y="2470" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="HgQZKxzAl0zi2ERc6zTd-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HgQZKxzAl0zi2ERc6zTd-11" target="HgQZKxzAl0zi2ERc6zTd-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HgQZKxzAl0zi2ERc6zTd-11" value="Robot Program Logic" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2550" y="2390" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="HgQZKxzAl0zi2ERc6zTd-12" value="UR Controller" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2710" y="2472.5" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HgQZKxzAl0zi2ERc6zTd-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HgQZKxzAl0zi2ERc6zTd-13" target="HgQZKxzAl0zi2ERc6zTd-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HgQZKxzAl0zi2ERc6zTd-13" value="External PC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2710" y="2392.5" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HgQZKxzAl0zi2ERc6zTd-14" value="UR_RTDE" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2577" y="2308" width="66" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="HgQZKxzAl0zi2ERc6zTd-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HgQZKxzAl0zi2ERc6zTd-15" target="HgQZKxzAl0zi2ERc6zTd-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HgQZKxzAl0zi2ERc6zTd-15" value="Module PLC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2710" y="2313" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HgQZKxzAl0zi2ERc6zTd-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HgQZKxzAl0zi2ERc6zTd-20" target="HgQZKxzAl0zi2ERc6zTd-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HgQZKxzAl0zi2ERc6zTd-20" value="Motion Planner" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2270" y="2470" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="HgQZKxzAl0zi2ERc6zTd-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="HgQZKxzAl0zi2ERc6zTd-22" target="HgQZKxzAl0zi2ERc6zTd-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HgQZKxzAl0zi2ERc6zTd-22" value="Robot Program Logic" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2270" y="2390" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="HgQZKxzAl0zi2ERc6zTd-23" value="UR Controller" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2430" y="2472.5" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HgQZKxzAl0zi2ERc6zTd-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HgQZKxzAl0zi2ERc6zTd-24" target="HgQZKxzAl0zi2ERc6zTd-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HgQZKxzAl0zi2ERc6zTd-24" value="Module PLC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2430" y="2313" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HgQZKxzAl0zi2ERc6zTd-25" value="Product Level" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2297" y="2308" width="66" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="HgQZKxzAl0zi2ERc6zTd-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="HgQZKxzAl0zi2ERc6zTd-31" target="HgQZKxzAl0zi2ERc6zTd-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HgQZKxzAl0zi2ERc6zTd-31" value="Motion Planner" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2830" y="2467.5" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="HgQZKxzAl0zi2ERc6zTd-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HgQZKxzAl0zi2ERc6zTd-33" target="HgQZKxzAl0zi2ERc6zTd-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HgQZKxzAl0zi2ERc6zTd-33" value="Robot Program Logic" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2830" y="2390" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="HgQZKxzAl0zi2ERc6zTd-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HgQZKxzAl0zi2ERc6zTd-35" target="HgQZKxzAl0zi2ERc6zTd-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HgQZKxzAl0zi2ERc6zTd-35" value="External PC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2990" y="2392.5" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HgQZKxzAl0zi2ERc6zTd-36" value="UR Controller" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2990" y="2472.5" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HgQZKxzAl0zi2ERc6zTd-37" value="MoveIt" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2857" y="2308" width="66" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="HgQZKxzAl0zi2ERc6zTd-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HgQZKxzAl0zi2ERc6zTd-38" target="HgQZKxzAl0zi2ERc6zTd-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HgQZKxzAl0zi2ERc6zTd-38" value="Module PLC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2990" y="2313" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
